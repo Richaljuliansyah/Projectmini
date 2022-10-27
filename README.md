@@ -1,7 +1,3 @@
-# To-Do
-
-![](assets/logo_transparent.png)
-
 ## Aiming
 This application aims to increase your productivity with a simple To-Do app.
 
@@ -21,12 +17,3 @@ I used Flutter technologye to provide this app in Android and IOS.<br />
 
 ## Language 
 Dart
-
-## UI Design
-I used Figma to design the application and make beautiful mockup
-
-## Images
-![](MockUp/Frame%207.png)
-![](MockUp/Frame%203.png)
-![](MockUp/Frame%204.png)
-![](MockUp/Frame%206.png)
