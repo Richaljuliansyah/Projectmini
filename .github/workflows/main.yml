@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - master
+      - main
 
 jobs:
   flutter_test:
@@ -51,7 +52,5 @@ jobs:
       - run: flutter pub get
       - run: flutter clean
       - run: flutter build appbundle
-          tag: v1.0.${{ github.run_number }}
-          token: ${{ secrets.TOKEN }}
 
 
