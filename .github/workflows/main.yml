@@ -51,7 +51,6 @@ jobs:
       - run: flutter pub get
       - run: flutter clean
       - run: flutter build appbundle
-          artifacts: "build/app/outputs/apk/debug/*,build/ios/iphoneos/app.ipa"
           tag: v1.0.${{ github.run_number }}
           token: ${{ secrets.TOKEN }}
 
