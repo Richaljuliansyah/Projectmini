@@ -13,7 +13,6 @@ I used Flutter technologye to provide this app in Android and IOS.<br />
 - Create / remove tasks <br />
 - show what is done / not done in list <br />
 - show your progress from report page <br />
-- Beautiful UI  <br />
 
 ## Language 
 Dart
