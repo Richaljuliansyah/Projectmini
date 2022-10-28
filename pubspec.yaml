@@ -48,7 +48,7 @@ dependencies:
 
 flutter_native_splash:
   color: "#673AB7"
-  image: assets/Adobe_Express_20221027_1003590.2514584139615792.png
+  image: assets/logo.png
 
 dev_dependencies:
   flutter_test:
@@ -58,7 +58,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/Adobe_Express_20221027_1003590.2514584139615792.png"
+  image_path: "assets/logo.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
